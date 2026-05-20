@@ -4,7 +4,7 @@ A full-stack web application where users can create projects, assign tasks, and 
 
 ## Live Demo
 
-🔗 **Live URL**: [https://team-task-manager-production-3e82.up.railway.app](https://team-task-manager-production-3e82.up.railway.app)  
+🔗 **Live URL**: [https://web-production-f42e8.up.railway.app/](https://web-production-f42e8.up.railway.app/)  
 📹 **Demo Video**: [Link]  
 
 ### Test Credentials
